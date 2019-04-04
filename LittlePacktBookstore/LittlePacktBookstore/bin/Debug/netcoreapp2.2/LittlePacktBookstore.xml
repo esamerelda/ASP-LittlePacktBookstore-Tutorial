@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LittlePacktBookstore</name>
+    </assembly>
+    <members>
+        <member name="T:LittlePacktBookstore.Controllers.BookController">
+            <summary>
+            Book Controller.
+            </summary>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.#ctor(LittlePacktBookstore.Services.IRepository{LittlePacktBookstore.Models.Book},Microsoft.Extensions.Logging.ILogger{LittlePacktBookstore.Controllers.BookController})">
+            <summary>
+            Constructor for the Book Controller.
+            </summary>
+            <param name="bookRepository"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.Get">
+            <summary>
+            Returns all books.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.Get(System.Int32)">
+            <summary>
+            Returns a book by index
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.Post(LittlePacktBookstore.Models.Book)">
+            <summary>
+            Add a new book.
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.Put(LittlePacktBookstore.Models.Book)">
+            <summary>
+            Edit a book.
+            </summary>
+            <param name="book"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LittlePacktBookstore.Controllers.BookController.Delete(System.Int32)">
+            <summary>
+            Delete a book.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

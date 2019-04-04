@@ -1,0 +1,97 @@
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.deps.json
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.runtimeconfig.json
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.runtimeconfig.dev.json
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.dll
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.pdb
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.xml
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.Views.dll
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.Views.pdb
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorAssemblyInfo.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorAssemblyInfo.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.AssemblyInfoInputs.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.AssemblyInfo.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.TagHelpers.input.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.TagHelpers.output.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorCoreGenerate.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddBook.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Order.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\OrdersList.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\ThankYou.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\_Carousel.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorTargetAssemblyInfo.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorTargetAssemblyInfo.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.Views.pdb
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.dll
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.pdb
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csproj.CopyComplete
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csprojAssemblyReference.cache
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register2.g.cshtml.cs
+D:\Tutorial\V09752_Code\Code_Section 1\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Address\Default.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.deps.json
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.runtimeconfig.json
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.runtimeconfig.dev.json
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.dll
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.pdb
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.xml
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.Views.dll
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.2\LittlePacktBookstore.Views.pdb
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csprojAssemblyReference.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorAssemblyInfo.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorAssemblyInfo.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.AssemblyInfoInputs.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.AssemblyInfo.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.TagHelpers.input.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.TagHelpers.output.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorCoreGenerate.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Pages\ListBooks.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddBook.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Order.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\OrdersList.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register2.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\ThankYou.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Home\_Carousel.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Address\Default.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Footer.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorTargetAssemblyInfo.cache
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.RazorTargetAssemblyInfo.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.Views.pdb
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.dll
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.pdb
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\LittlePacktBookstore.csproj.CopyComplete
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Pages\EditBook.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Pages\_Layout.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_AdminLayout.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_Header.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_SideBar.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_AreaChart.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_Footer.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_Breadcrumb.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_DataTables.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_IconCards.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\Web Dev\LittlePacktBookstore Tutorial\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\admin\_LogoutModal.g.cshtml.cs
